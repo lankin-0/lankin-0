@@ -36,7 +36,7 @@ As a collaborative developer, I depend on Git and Github for streamlined collabo
 As a front-end developer, I use both, Linux and Windows environments, showcasing versatility in my development toolkit. As a Linux enthusiast, I am proficient in Linux systems and command-line operations. With a commitment to both, Linux and Windows, I ensure smooth and efficient development across diverse operating systems.
 
 <h3 align="left">Top Skills</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
 
 
 
