@@ -24,8 +24,6 @@ As a collaborative developer, I depend on Git and Github for streamlined collabo
 ## OS
 As a front-end developer, I use both, Linux and Windows environments, showcasing versatility in my development toolkit. As a Linux enthusiast, I am proficient in Linux systems and command-line operations. With a commitment to both, Linux and Windows, I ensure smooth and efficient development across diverse operating systems.
 
-<div> <a href="https://github.com/lankin-0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
@@ -38,7 +36,7 @@ As a front-end developer, I use both, Linux and Windows environments, showcasing
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
 
 
