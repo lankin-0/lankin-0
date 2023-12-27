@@ -1,7 +1,7 @@
 # Hi 👋, I'm Lankin
 
 Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
