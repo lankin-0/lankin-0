@@ -1,6 +1,7 @@
 # Hi 👋, I'm Lankin
 
 Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.
+</br>
 <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="200" alt="NikLankin's Dev Card"/></a>
 # Languages and Tools:
 <p align="left">
