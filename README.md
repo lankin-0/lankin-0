@@ -1,9 +1,6 @@
 # Hi 👋, I'm Lankin
 <div>
- <p align="left">Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.</p>
- <div>
-  <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="300" alt="NikLankin's Dev Card"/></a>
- </div>
+ <p>Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.</p>
 </div>
 # Languages and Tools:
 <p align="left">
@@ -39,7 +36,10 @@ As a collaborative developer, I depend on Git and Github for streamlined collabo
 As a front-end developer, I use both, Linux and Windows environments, showcasing versatility in my development toolkit. As a Linux enthusiast, I am proficient in Linux systems and command-line operations. With a commitment to both, Linux and Windows, I ensure smooth and efficient development across diverse operating systems.
 
 <h3 align="left">Top Skills</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
+<img align="left" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
+ <div>
+  <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="250" alt="NikLankin's Dev Card"/></a>
+ </div>
 
 
 
