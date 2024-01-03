@@ -38,7 +38,7 @@ As a front-end developer, I use both, Linux and Windows environments, showcasing
 <h3 align="left">Top Skills</h3>
 <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
  <div>
-  <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="250" alt="NikLankin's Dev Card"/></a>
+  <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="300" alt="NikLankin's Dev Card"/></a>
  </div>
 
 
