@@ -1,5 +1,5 @@
 # Hi 👋, I'm Lankin
-<div display="flex">
+<div display="flex" jusfy-content="space-between">
  <p>Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.</p>
  <div>
   <a align="center" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="300" alt="NikLankin's Dev Card"/></a>
