@@ -1,6 +1,7 @@
 # Hi 👋, I'm Lankin
 
 Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.
+<a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="200" alt="NikLankin's Dev Card"/></a>
 # Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -36,7 +37,7 @@ As a front-end developer, I use both, Linux and Windows environments, showcasing
 
 <h3 align="left">Top Skills</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
-<a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="400" alt="NikLankin's Dev Card"/></a>
+
 
 
 
