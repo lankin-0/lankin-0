@@ -28,11 +28,14 @@ As a collaborative developer, I depend on Git and Github for streamlined collabo
 ## OS
 As a front-end developer, I use both, Linux and Windows environments, showcasing versatility in my development toolkit. As a Linux enthusiast, I am proficient in Linux systems and command-line operations. With a commitment to both, Linux and Windows, I ensure smooth and efficient development across diverse operating systems.
 
+<p align="center">
+ <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
+  <a align="right" href="https://app.daily.dev/lankin0">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,redux,styledcomponents,tailwind,threejs,vite,postman,linux,git,github" />
+  </a>
+</p>
 
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
- <div>
-  <a align="right" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=qn1" width="300" alt="NikLankin's Dev Card"/></a>
- </div>
+
 
 
 
