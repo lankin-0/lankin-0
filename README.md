@@ -9,6 +9,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,threejs,vite,postman,linux,git,github" />
   </a>
 </p>
+## 🔧 Technologies & Tools
 
 ## ReactJS
 
