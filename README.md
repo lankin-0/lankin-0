@@ -1,7 +1,7 @@
 # Hi, Im Nikola 👋
 
 
- <p>Front-End Developer specializing in building user-friendly and performant web applications using React. </p>
+ <p>Front-End Developer specializing in building user-friendly and performant web applications using ReactJS. </p>
 
  ## 🔧 Tech Stack:
  
