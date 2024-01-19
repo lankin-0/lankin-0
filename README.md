@@ -22,7 +22,7 @@
  <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
  </p>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lankin-0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
