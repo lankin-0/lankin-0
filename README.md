@@ -1,15 +1,15 @@
 # Hi, Im Nikola 👋
+## 🔧 Technologies & Tools
 
-<div>
  <p>Web developer with a four-year journey in front-end web development, boasting a diverse set of skills and experiences that seamlessly merge technical expertise with creative flair, resulting in captivating and dynamic web applications.</p>
-</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,styledcomponents,tailwind,threejs,vite,postman,linux,git,github" />
   </a>
 </p>
-## 🔧 Technologies & Tools
+
 
 ## ReactJS
 
