@@ -1,6 +1,7 @@
 # Hi, Im Nikola 👋
 <div>
  <p>Front-End web developer</p>
+</div>
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
