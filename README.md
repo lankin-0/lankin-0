@@ -12,9 +12,8 @@
 </p>
 
 
-<div>
- 
 
+<p align="center">
  ## 👨‍💻 Daily Dev:
 
  <p align="right">
@@ -27,7 +26,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
  </p>
 
- </div>
+ </p>
+
+
 
 
 
