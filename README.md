@@ -11,15 +11,6 @@
   </a>
 </p>
 
-
-
-
- ## 👨‍💻 Daily Dev:
-
- <p align="center">
- <a href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=tr7" width="250" alt="NikLankin's Dev Card"/></a>
- </p>
-
  ## 📈 Stats:
 
  <p align="center">
