@@ -10,7 +10,7 @@
 
  <p align="center">
   <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lankin-0&layout=compact&theme=dark" alt=lankin-0 />
-  <a align="rigth" href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/e052db8f83234f60a43b904ed488aa64.png?r=tr7" width="250" alt="NikLankin's Dev Card"/></a>
+  <a href="https://app.daily.dev/lankin0"><img src="https://api.daily.dev/devcards/v2/u4LkKbrDxlvwRH2iOYE4L.png?type=wide&r=8zb" width="652" alt="Nikola Ljangovski's Dev Card"/></a>
  </p>
 
 
